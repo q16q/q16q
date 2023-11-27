@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @q16q
-- 👀 I’m interested in making tutorials
+- 👀 I’m interested in coding
 - 📫 How to reach me: @q16q on discord
 
 <!---
