@@ -1,5 +1,5 @@
 ```
-- idk what to insert there
+- idk what to put here
 - average discord user
 - chronically online
 - contact: @q16q
