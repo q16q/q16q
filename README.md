@@ -1,4 +1,4 @@
-- [x] `chronically online 🐈‍⬛`
+- [x] `be chronically online 🐈‍⬛`
 - [x] `have a discord account (@q16q)`
 - [x] [`- "check out my website, btw"`](https://q16.dev/)
 - [ ] `get a life`
