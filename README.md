@@ -1,6 +1,4 @@
-```
-- idk what to put here
-- average discord user
-- chronically online
-- contact: @q16q, @blurflower
-```
+- [x] `chronically online 🐈‍⬛`
+- [x] `have a discord account (@q16q)`
+- [x] [`- "check out my website, btw"`](https://q16.dev/)
+- [ ] `get a life`
